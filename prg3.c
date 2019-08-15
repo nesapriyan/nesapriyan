@@ -8,5 +8,4 @@ for(i=0;i<n;i++)
 printf("Hello");
 printf("\n");
 }
-return 0;
 }
