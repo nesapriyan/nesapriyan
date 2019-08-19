@@ -11,8 +11,8 @@ sum=(sum*10)+r;
 n=n/10;
 }
 if(temp==sum)
-printf("palindrome");
+printf("yes");
 else
-printf("not");
+printf("no");
 return 0;
 }
